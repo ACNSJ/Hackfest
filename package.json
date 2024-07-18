@@ -1,7 +1,7 @@
 {
-  "name": "hackfest",
+  "name": "hackfest-",
   "version": "1.0.0",
-  "description": "",
+  "description": "Submission for Hackfest project",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,7 +14,7 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ACNSJ/Hackfest/issues"
+    "url": "https://github.com/ACNSJ/Hackfest-/issues"
   },
-  "homepage": "https://github.com/ACNSJ/Hackfest#readme"
+  "homepage": "https://github.com/ACNSJ/Hackfest-#readme"
 }
