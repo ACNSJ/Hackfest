@@ -17,7 +17,7 @@ const Navigator = () => {
     <div className="card">
       <h1>Campus Navigator</h1>
       <div className="field-container">
-        <label className="label"> Your Current Location:</label>
+        <label className="label"> Your Current Location</label>
         <input
           type="text"
           value={currentLocation}
@@ -26,7 +26,7 @@ const Navigator = () => {
         />
       </div>
       <div className="field-container">
-        <label className="label">Your Destination:</label>
+        <label className="label">Your Destination</label>
         <input
           type="text"
           value={destination}
